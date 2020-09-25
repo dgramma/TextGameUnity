@@ -1,0 +1,11 @@
+﻿You wake up tied to a table in the middle of a dark room with a light in your face. A smelly unkept man stares over you. He starts to speak.
+
+"Now that you're awake, welcome to Gadgetsville.
+What is Gadgetsville? Where is Gadgetsville? Don't worry about those questions.
+The only thing you need to know is you aren't leaving this room alive..."
+
+| What would you like to do? |
+Spit in the man's face
+Tell him how bad he smells
+Ask him to untie you
+Yell as loud as you can
